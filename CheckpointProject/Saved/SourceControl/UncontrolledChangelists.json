@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Scene/Metaverse.umap",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/SciFi_Terminal_2/ScifiObj.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Computer.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Scene/_GENERATED/labsfiap/Cylinder_197FE63D.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Scene/_GENERATED/labsfiap/Cylinder_7F13B770.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Scene/_GENERATED/labsfiap/Box_81D437A0.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Scene/_GENERATED/labsfiap/Cylinder_D2E793B8.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/SciFi_Terminal_2/scifi_terminal_2_texture_0.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/SciFi_Terminal_2/scifi_terminal_2_texture_1.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/SciFi_Terminal_2/scifi_terminal_2_texture_2.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/SciFi_Terminal_2/scifi_terminal_2_texture_3.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/SciFi_Terminal_2/T_Terminal.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/SciFi_Terminal_2/scifi_terminal_2.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Scene/_GENERATED/labsfiap/Stairs_C5FBF310.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Keyboard.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Base_up.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Metal_Base.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Back_Pc.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Edge_Pc.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Monitor_color.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Monitor.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Raton_Dentro.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Raton.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Screen_Monitor.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/Botones_Keyvnoard.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Sleek_All-in-One_Computer_Set___for_Any_3D_Scene/PC.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Office_Chair/office_chair_texture_0.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Office_Chair/office_chair_texture_1.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Office_Chair/office_chair_texture_2.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Office_Chair/Scene_-_Root.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Office_Chair/office_chair.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Scene/_GENERATED/labsfiap/Box_B61320F3.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Server/21_-_Default.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Server/Blue_Plastic.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Server/blue_light.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Server/Ribbon_Cable.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Server/Black_Metal_Plate.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Server/Metal.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Server/Chrome.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Server/Screws.uasset",
+				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/Server/server_racking_system.uasset"
+			]
+		}
+	]
+}
