@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/labsfiap/Documents/GitHub/CP_Metaverso/CheckpointProject/Content/Scene/_GENERATED/labsfiap/Box_81D437A0.uasset",
+				"C:/Users/labsfiap/Documents/GitHub/CP_Metaverso/CheckpointProject/Content/Fab/Megascans/Surfaces/Rusty_Metal_Sheet_tjylcjvn/Medium/MI_tjylcjvn.uasset",
+				"C:/Users/labsfiap/Documents/GitHub/CP_Metaverso/CheckpointProject/Content/Fab/Megascans/Surfaces/Dirty_Sidewalk_Tiles_ugxjcdpn/Medium/MI_ugxjcdpn.uasset",
+				"C:/Users/labsfiap/Documents/GitHub/CP_Metaverso/CheckpointProject/Content/Fab/Light.uasset",
+				"C:/Users/labsfiap/Documents/GitHub/CP_Metaverso/CheckpointProject/Content/Scene/Metaverse.umap",
 				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
 				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Scene/Metaverse.umap",
 				"C:/Users/labsfiap/Downloads/CP_Metaverso/CheckpointProject/Content/Fab/SciFi_Terminal_2/ScifiObj.uasset",
